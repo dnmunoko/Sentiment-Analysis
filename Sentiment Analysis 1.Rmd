@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis 1"
-author: "Dory Munoko"
+author: "Dorcas Munoko"
 date: "12/21/2021"
 output: html_document
 ---
